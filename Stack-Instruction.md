@@ -42,7 +42,11 @@ print(item)
 
 ```
 
-    
+##Example problem
+
+Try the following problem. 
+Create a stack and load 5 numbers in to it. Then reverse the order of the numbers in the stack.
+
 
 
 
