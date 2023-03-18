@@ -1,3 +1,4 @@
+[Go back](/Stack-Instruction.md)
 ```
 #Create empty stack
 
