@@ -22,7 +22,7 @@ A Stack works like a stack of papers, the last one put on the pile will be the f
     print(item)
    
 4. How to reverese the order of a stack
-    Example: reverse_stack(stack)
+    Example: stack.reverse()
     
     
     
