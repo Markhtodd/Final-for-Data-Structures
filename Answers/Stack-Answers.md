@@ -8,7 +8,7 @@ for i in range (1, 6):
   
 print(aux_stack)
 
-reverse_stack(aux_stack.append)
-print('reverse aux_stack:, aux_stack)
+aux_stack.reverse()
+print('reverse aux_stack:', aux_stack)
 
 ```
