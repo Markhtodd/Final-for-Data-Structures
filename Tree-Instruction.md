@@ -74,4 +74,4 @@ class T_Node:
 
 ```
 
-[Solutions](/Answers/Tree-Answers.md)
+[Solutions](/Answers/Answers/Tree-Answers.md)
