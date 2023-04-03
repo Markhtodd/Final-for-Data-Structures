@@ -47,6 +47,6 @@ print(item)
 Try the following problem. 
 Create a stack and load 5 numbers in to it. Then reverse the order of the numbers in the stack.
 
-[Solutions](/Answers/Stack-Answers.md)
+[Solutions](/Answers/Answers/Stack-Answers.md)
 
 
