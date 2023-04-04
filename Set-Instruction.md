@@ -56,6 +56,6 @@ Try the following problem.
 set1 = {3, 4, 5, 6, 7}
 set2 = {1, 2, 3, 4, 5} 
 
-#Answer = {1, 2, 6, 7}
+# Answer = {1, 2, 6, 7}
 
 ```
