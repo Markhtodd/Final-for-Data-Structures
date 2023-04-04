@@ -1,14 +1,14 @@
 # Introduction 
 A Set works as an unordered collection of elements. But unlike a list they are all unique. Because of this you cannot enter the same data twice. And you cannot put them in order.
 
-##They have many benefits such as:
+## They have many benefits such as:
 1. They are unique. This is good if you don't want repeats. It would be like if you had box of random pieces to a puzzle you would not want the same pieces over and over in your puzzle.
 2. They are designed for fast membership testing.
 3. They are good for mathematical set operations. So, you can compare or combine data.
 4. They can do iterable. So, you can loop through fast with a for loop.
 5. They are good manipulating data. add(), update(), discard() and so on.
 
-##How to use sets.
+## How to use sets.
 1. How to add to a set
     
     Example: the_set = {1, 2, 3, 4, 5}
