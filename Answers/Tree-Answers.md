@@ -1,3 +1,7 @@
+[Go back](/Tree-Instruction.md)
+
+
+```
 def play(data):
     if data == None:
         return
@@ -18,3 +22,4 @@ def play(data):
 
 data = T_Node('An animal can lay eggs and still be a mammal.', T_Node('The tallest land animal is not the biggest animal.'))
 play(data)
+```
