@@ -28,7 +28,7 @@ A Stack works like a stack of papers, the last one put on the pile will be the f
     
 ## Example 
 ```
-#Make a empty stack.
+# Make a empty stack.
 aux_stack = []
     
 
@@ -37,7 +37,7 @@ stack.append('B')
 stack.append('C')
 item = aux_stack.pop()
 
-#will print last letter added 'C'
+# will print last letter added 'C'
 print(item)
 
 ```
