@@ -29,7 +29,7 @@ A Set works as an unordered collection of elements. But unlike a list they are a
 
     print(set3)
     
-##Example 
+## Example 
 ```
 #Make a set.
 the_set = {1, 2, 3, 4, 5}
@@ -45,7 +45,7 @@ print(item)
 
 ```
 
-##Example problem
+## Example problem
 
 Try the following problem. 
 
