@@ -1,6 +1,6 @@
 A Tree works like a family tree. You have parents in the family and children of those parents, and you can look up children by looking up parents. 
 
-##They have many benefits such as:
+## They have many benefits such as:
 1. They are efficient at retrieving specific data, elements, or other information.
 2. They are flexible. Able to make structures such as hierarchical data and nested structures.
 3. They are easy to implement by using classes or objects.
@@ -8,7 +8,7 @@ A Tree works like a family tree. You have parents in the family and children of 
 5. They are good for keeping sorted order and fast intersection of detection while keeping the order the same.
 
 
-##How to use a tree.
+## How to use a tree.
 1. Define a 'Node' this is a class that will represent every 'Node' in the tree.
 every node will have a 'right' and 'left' and a 'data' to hold the value of the node.
 example:
@@ -31,7 +31,7 @@ You will also need a 'root' that will hold the root node as well as an 'add_node
     
     
     
-##Example 
+## Example 
 ```
 1. Make a tree and children
     tree = {
@@ -55,7 +55,7 @@ You will also need a 'root' that will hold the root node as well as an 'add_node
 
 ```
 
-##Example problem
+## Example problem
 
 Try the following problem. 
 Finish a tree with trivia questions and true/false answers.
