@@ -49,7 +49,7 @@ print(item)
 
 Try the following problem. 
 
-[Solutions](/Answers/set-Answers.md)
+[Solutions](/Answers/Set-Answers.md)
 
 ```
 #find what is different
