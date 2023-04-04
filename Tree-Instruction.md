@@ -68,9 +68,11 @@ class T_Node:
         self.right = right
 
     def is_leaf(self):
-        return self.right is None and self.left is None
+        # TODO Evaluate if the statement is true or false (based on the tree) and return a corrsponding response
 
-        pass
+
+data = T_Node('An animal can lay eggs and still be a mammal.', T_Node('The tallest land animal is not the biggest animal.'))
+play(data)
 
 ```
 
